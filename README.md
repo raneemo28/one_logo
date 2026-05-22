@@ -1,4 +1,4 @@
-# NE Logo Animation
+# ONE Logo Animation
 
 An animated 3D logo built with [Three.js](https://threejs.org/) and [Vite](https://vitejs.dev/). The animation features a star orbiting a pulsing circular path, which then slides into position beside the "NE" logotype as the text fades in.
 
@@ -72,6 +72,3 @@ All tweakable values are centralised in `src/constants/`:
 
 Animation speed values (step increments per frame) live in the `animate()` function in `src/main.js`.
 
-## License
-
-This project is unlicensed. Add a `LICENSE` file if you plan to share or distribute it.
